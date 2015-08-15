@@ -53,5 +53,6 @@
 
   <modules>
     <module>quick-start</module>
+    <module>override-camunda-version</module>
   </modules>
 </project>
