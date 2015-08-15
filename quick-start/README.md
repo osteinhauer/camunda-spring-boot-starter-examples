@@ -3,4 +3,4 @@ This example shows the easy and less code usage of [camunda-bpm-spring-boot-star
 
 Simply starts a process every 10 seconds. The delegate is _async before_ so the job executor is invoked.
 
-![example.bpmn][src/main/resources/example.png]
+![example.bpmn](src/main/resources/example.png)
