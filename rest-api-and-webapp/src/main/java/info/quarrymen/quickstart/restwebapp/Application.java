@@ -1,17 +1,14 @@
 package info.quarrymen.quickstart.restwebapp;
 
-import org.camunda.bpm.spring.boot.starter.rest.CamundaJerseyResourceConfig;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.embedded.EmbeddedServletContainerInitializedEvent;
 import org.springframework.context.ApplicationListener;
-import org.springframework.context.annotation.Import;
 import org.springframework.stereotype.Component;
 
 @SpringBootApplication
-@Import({ CamundaJerseyResourceConfig.class })
 public class Application {
 
   private static final Logger LOGGER = LoggerFactory.getLogger(Application.class);

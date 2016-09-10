@@ -1,7 +1,7 @@
 # Override camunda version example
 This example shows how to override the camunda version using [camunda-bpm-spring-boot-starter](https://github.com/camunda/camunda-bpm-spring-boot-starter).
 
-This example is using camunda version 7.4.0 instead of the one coming with the spring boot starter.
+This example is using camunda version 7.6.0-alpha3 instead of the one coming with the spring boot starter.
 
 **Note:** There is no code for camunda configuration. Just concentrate on your processes!
 
