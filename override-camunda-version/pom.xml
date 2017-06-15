@@ -9,7 +9,7 @@
   <artifactId>override-camunda-version</artifactId>
 
   <properties>
-    <camunda.version>7.6.0-alpha3</camunda.version>
+    <camunda.version>7.5.0</camunda.version>
   </properties>
 
   <dependencyManagement>

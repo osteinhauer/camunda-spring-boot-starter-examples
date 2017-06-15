@@ -9,7 +9,7 @@
   
   <dependencies>
     <dependency>
-      <groupId>org.camunda.bpm.extension</groupId>
+      <groupId>org.camunda.bpm.extension.springboot</groupId>
       <artifactId>camunda-bpm-spring-boot-starter-webapp</artifactId>
       <version>${camunda-bpm-spring-boot-starter.version}</version>
     </dependency>
